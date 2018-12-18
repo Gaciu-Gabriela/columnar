@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1544547188 source:c:\users\gabriela\desktop\new folder (13)\columnar\main.c
+	<stdio.h>
+	<string.h>
+	<conio.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
